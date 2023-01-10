@@ -1,4 +1,4 @@
-# Hard / Soft Links
+### Hard / Soft Links
 
 Go here for quick rundown on hard and soft links, how to create / remove, and what are the differences between them:
 - https://ostechnix.com/explaining-soft-link-and-hard-link-in-linux-with-examples/
