@@ -3,6 +3,7 @@
 Go here for a quick and simple man page tutorial on how to use man and search for what you want:
 - Efficiently use man pages (search/etc): https://ostechnix.com/learn-use-man-pages-efficiently/
 - View specific man page sections: https://ostechnix.com/how-to-view-a-specific-section-in-man-pages-in-linux/
+- Man page basics:  https://bash.cyberciti.biz/guide/Man_command?utm_source=Linux_Unix_Command&utm_medium=faq&utm_campaign=nixcmd
 
 ---------------------------------------------
 
