@@ -8,7 +8,7 @@ man selinux
 
 2. To search for something specific in the man database, use: `man -k <keyword>`
 
-^^ This will search the short description of the man page name ..
+    **This will search the short description of the man page name**
 
 Say that you are trying to remember the syntax of labeling a file with a selinux context but you can only remember one part of the command `fcontext`. You can use the `-k` switch with man to search for a particular keyword.
 
