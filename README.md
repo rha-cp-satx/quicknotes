@@ -3,3 +3,4 @@
 - [man pages](./manpages.md)
 - [symbolic/hard links](./symlinks.md)
 - [linux systems](./linuxsystem.md)
+- [steghide resources](./steghide.md)
